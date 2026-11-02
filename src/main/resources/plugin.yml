@@ -1,0 +1,7 @@
+name: DoubleSneakBackpack
+version: 1.0.0
+main: com.axel.doublesneak.DoubleSneakBackpack
+api-version: '1.21'
+softdepend: [ModularPacks, Geyser-Spigot, floodgate]
+author: Axel
+ description: Opens the equipped ModularPacks backpack on double-sneak.
